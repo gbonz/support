@@ -1,0 +1,11 @@
+
+items for new computer to address.
+
+has to boot off sd card by default in bios.
+
+ssd os needs to be configured for non white.
+
+will need some sort of 12v or usb power supply for it.
+
+needs a usb3 compatible docking station with utp.
+
