@@ -1,0 +1,15 @@
+how to add a person to a repo
+
+log in to github 
+
+selected correct repo 
+
+go to the plus sign at top right 
+
+select new collaborator 
+
+search by username 
+
+then click on invite 
+
+
