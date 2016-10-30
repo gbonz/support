@@ -9,3 +9,7 @@ will need some sort of 12v or usb power supply for it.
 
 needs a usb3 compatible docking station with utp.
 
+default linux os needs to be debian with xfce window manager
+
+all other window managers default back to white and are slow.
+
