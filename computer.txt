@@ -13,3 +13,6 @@ default linux os needs to be debian with xfce window manager
 
 all other window managers default back to white and are slow.
 
+nrs needs to be setup so i can use it.
+
+
