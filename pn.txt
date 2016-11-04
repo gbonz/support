@@ -1,0 +1,270 @@
+2016-11-04 11:23:23  
+2016-11-04 11:23:23 [grep] Search for "test" in /irc.lh.nrs.weechatlog.
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:31:09 bonz test
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:31:10 nrs Visit this web page to continue: 
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:31:10 nrs  
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:31:10 nrs http://aim.nrscall.gov.au/client/00zsxf
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:35:33 nrs Session confirmed.
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:35:33 nrs Welcome to the National Relay Service
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:35:36 nrs Transferring to a Relay Officer ip6-4-194922526
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:36:05 nrs (Welcome to NRS, this is RO ruth (Recorded message) welcome to p
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:36:05  and n bank any advice given is general only and not based on yoru
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:36:05  individual circumstances t(Recorded message) Your call may be
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:36:05  monitored for quality/training purposes. Please advise operator if
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:36:05  you do not wish this to occur. if you are registered for phone
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:36:05  banking and would like to use this
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:36:07 nrs service press 8
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:36:12 nrs for home loans or credit cards 2
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:36:14 nrs insurance 3
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:36:17 nrs other enquiries 4
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:36:27 nrs or hold the line and one of our consultants will be with you
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:36:27  shortly ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:36:47 bonz we will hold thank ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:36:54 nrs (holding)
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:38:10 nrs  (holding)
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:39:31 nrs  good morning you're speaking with matthew 
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:39:32 nrs ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:40:16 bonz hiya matthew, could you please let me know if you would find any
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:40:16  difficulties or problems opening up a new account with only one
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:40:16  name?
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:40:41 nrs no we can open individual as in like no surname is that what your
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:40:41  question si
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:40:43 nrs without a surname
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:40:47 nrs or is it an indvidual party
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:41:01 nrs individual names are fine but if its like matthew we would need a
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:41:01  surname ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:41:25 bonz the gentleman only has one name and can provide identification for
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:41:25  it ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:41:46 nrs that will be fine then so what he will need to do is go to the
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:41:46  branch
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:41:57 nrs with his identification and as long as the identification states
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:41:57  only name
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:42:00 nrs then it shouldnt be an issue ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:42:50 bonz ok thank you, do you have an accessible app? ie it won't change
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:42:50  colours etc once going to another screen/account etc? ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:43:19 nrs that one i'm going to have to find out about...
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:43:27 nrs would you mind holding for a moment (holding0
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:43:49 bonz no, don't mind holding but there are other questions too :) ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:44:14 nrs thanks for holding no there is no customisation on the app ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:23  2016-11-04 10:44:52 bonz could you guys demonstrate the app before opening an account at
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:44:52  all? ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:45:10 nrs in the branch yes they can show you how to use the app ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:45:43 bonz ok, thank you. do you have any accessible branches outside of
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:45:43  shopping centres please? ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:46:02 nrs ah whereabouts are you located ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:47:17 bonz south of river branches please as long as near on mandurah and
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:47:17  armadale train stations, near those lines please? ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:47:38 nrs  ok bear with me.....
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:47:50 nrs um...
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:48:05 bonz we are located kenwick and rossmoyne areas. ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:48:17 nrs thank yoiu ....
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:48:45 nrs i think the best location would be coburn central unforutantley it
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:48:45  is inside the shopping centre
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:48:50 nrs but it is close to the train line ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:49:33 bonz ok, thanks shopping centres are no good and need access with branch
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:49:33  having it's own entry. ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:49:50 nrs  ok ....
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:50:13 nrs bear with me i'm just trying to find an alternative ....
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:51:01 nrs sorry i'm trying to find one close to a train line which is why its
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:51:01  taking so long ...
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:51:33 bonz would he need to enter the shopping centre, or can he access
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:51:33  without the shopping centre? ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:51:35 nrs there is one in sterling street in perth cbd you can catch the
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:51:35  train to cbd it is an external branch
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:51:43 nrs it isnt in a shopping centre its on the main street
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:52:15 nrs the sterling street is a branch by itself on the street
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:52:18 nrs coburn is unfortunately
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:52:21 nrs inside the shopping centre ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:53:02 bonz ok thank you. is there a branch at garden city please? ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:53:17 nrs yes there is um and it is external
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:53:25 nrs but it is not on a train line which is why i didn't suggest it 
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:53:27 nrs just bear with me...
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:53:33 nrs yeah ti is external it is in a bankign area
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:53:36 nrs it is in risely street
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:53:38 bonz ok cool. ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:53:43 nrs and its not in the shopping centre it is 
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:53:52 nrs outside it is in a business section
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:53:58 nrs of the shopping centre so its not inside the shopping
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:54:14 nrs centre its external its in riseley street if that helps ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:54:17 bonz your atm's are they white screen? ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:55:01 nrs i dont know that question sorry bear with me i'll put you on hold
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:55:01  and find out (holding)
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:55:59 nrs (holding)
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:56:50 nrs  thanks for yoru patience its an off white 
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:56:56 nrs it does change colours though ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:57:29 bonz ok. what is needed to open an account? what id please? ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:57:59 nrs  um photo id so drivers licene or passport
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:58:08 nrs ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:59:04 bonz there is no passport or drivers licence, we have a companion card
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:59:04  with photo id, also taxi subsidy card? ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:59:32 nrs bear with me a moment and i'll see if that identification is going
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 10:59:32  to be acceptable (holding)
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 11:00:10 bonz we have a pensioner card and birth cert. ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 11:00:34 nrs (holding)
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 11:01:35 nrs thanks for holding we would need two forms of identifiation
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 11:01:41 nrs if you dont have drivers licence and passport
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 11:01:56 nrs perfect so if you have the pensioner card and birth certificate
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 11:01:58 nrs that would be great ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 11:02:57 bonz as far as centrelink payments are concerned, it is released on the
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 11:02:57  tuesday, can he access it in the account by tuesday night or not
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 11:02:57  please? ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 11:03:19 nrs that will all depend on centrelink
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 11:03:25 nrs it can take up to two business days to transfer the funds
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 11:03:29 nrs we generally dont have any issues
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 11:03:37 nrs with cetnrelink coming through on the day that its transferred
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 11:03:41 nrs but this cannot be guaranteed ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 11:04:24 bonz so you can't confirm as we know bankwest it goes in on the tuesday.
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 11:04:24  ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:24  2016-11-04 11:04:42 nrs um from what i've seen in the past centrelink
+1970-01-01 08:00:00  
+2016-11-04 11:23:25  2016-11-04 11:04:45 nrs does clear on the same day ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:25  2016-11-04 11:05:56 bonz ok, thank you. with your accounts, do you have an account for
+1970-01-01 08:00:00  
+2016-11-04 11:23:25  2016-11-04 11:05:56  pensioners that gets interest please, and doesn't incur charges at
+1970-01-01 08:00:00  
+2016-11-04 11:23:25  2016-11-04 11:05:56  all? ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:25  2016-11-04 11:06:38 nrs we have an account called the & (and) retirement account
+1970-01-01 08:00:00  
+2016-11-04 11:23:25  2016-11-04 11:06:44 nrs whcih earns 2 percent interest and it has no fees ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:25  2016-11-04 11:07:10 bonz ok, cool thank you for youe time matthew. ga
+1970-01-01 08:00:00  
+2016-11-04 11:23:25  2016-11-04 11:07:23 nrs thank you is there anything else i can help you with ga tos k 
+1970-01-01 08:00:00  
+2016-11-04 11:23:25  2016-11-04 11:07:39 bonz no thanks sksk
+1970-01-01 08:00:00  
+2016-11-04 11:23:25  2016-11-04 11:07:50 nrs thanks take care bye sksk
+1970-01-01 08:00:00  
+2016-11-04 11:23:25  2016-11-04 11:07:54 nrs (Recorded message)
+1970-01-01 08:00:00  
+2016-11-04 11:23:25  2016-11-04 11:07:56 nrs (RO here, would you like to make another call?) ga  
+1970-01-01 08:00:00  
+2016-11-04 11:23:25  2016-11-04 11:08:14 bonz no thank you take care. sksk
+1970-01-01 08:00:00  
+2016-11-04 11:23:25  2016-11-04 11:08:18 nrs  (Thank you for your call, bye for now) sksk
+1970-01-01 08:00:00  
+2016-11-04 11:23:25  2016-11-04 11:08:57 nrs Your call is now finished and you are no longer connected to the
+1970-01-01 08:00:00  
+2016-11-04 11:23:25  2016-11-04 11:08:57  NRS.
+1970-01-01 08:00:00  
+2016-11-04 11:23:25 [grep] 1 matches "test" in /irc.lh.nrs.weechatlog
+1970-01-01 08:00:00  
+2016-11-04 11:23:25  
