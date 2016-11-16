@@ -1,4 +1,6 @@
 
+find/create an irc app senses/others can use to communicate with me instead of dodgy sms.
+
 be able to safely move summerhaze out of the path of others safely.
 
 be able to communicate with others anywhere without spam/confusion.
