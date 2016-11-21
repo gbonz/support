@@ -1,0 +1,11 @@
+
+object of this drum is too desal water.
+
+needs an aqua alert near the top.
+
+connected to a killpower circuit for filling pump.
+
+pump remains powered/alarmed until water reaches it.
+
+then pump should power off and evaporation can begin.
+
