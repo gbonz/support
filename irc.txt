@@ -1,9 +1,13 @@
 
 this is simple info to contact bonz on irc.
 
+on compatible irc clients like weechat you can use irc://irc.freenode.net/#summerhaze
+
+otherwise you have to manually plug in stuff.
+
 i currently use the server called freenode
 
-it has a domain of irc.freenode.net amongat others.
+it has a domain of irc.freenode.net amongst others.
 
 my dedicated support/memory bridge channel is #summerhaze
 
