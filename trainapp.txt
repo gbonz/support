@@ -1,5 +1,7 @@
 
-need an app to vibrate phone when it is one station before stating on screen
+need an app to 
+
+vibrate phone when it is one station before stating on screen
 
 indicating left or right door in conjunction to the travel direction
 
@@ -7,5 +9,7 @@ maybe have the capacity of bluetooth for emergencies,
 
 interupting bluetooth with notices and corrections
 
+this app must not need a telco data connection to function.
 
+the current transperth app sucks big time and is unusable due to this
 
