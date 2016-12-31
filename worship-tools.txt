@@ -1,0 +1,19 @@
+
+to make service readable without needing html, etc i propose.
+
+title, etc starting from left margin.
+
+starting all audible text 3 chars in from left edge.
+
+then all congregation text a further 3 spaces in.
+
+so for example
+
+page 1
+
+a boring title example
+
+   minister speaks ...
+
+      congregation responds...
+
