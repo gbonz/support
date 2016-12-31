@@ -3,7 +3,7 @@ to make service readable without needing html, etc i propose.
 
 title, etc starting from left margin.
 
-starting all audible text 3 chars in from left edge.
+starting all audible text spoken by lead 3 chars in from left edge.
 
 then all congregation text a further 3 spaces in.
 
@@ -16,4 +16,26 @@ a boring title example
    minister speaks ...
 
       congregation responds...
+
+end of service.
+
+end of example 
+
+i need the page/title stuff still to search with / and ? when you skip.
+
+but at present the current haphazard indention confuses me as well.
+
+the minister speaks would be replaced with what you say not need any label.
+
+i need to get this format sorted so ml can help me implement it.
+
+if you perceive any issues i need to include them here for clarity for ml.
+
+i also need all the ? and caps removed and replaced with readable text.
+
+other question to double space or not to doublespace?
+
+i use less2 for viewing all text presently
+
+but modifying the text myself is migraine making if it is single spaced.
 
