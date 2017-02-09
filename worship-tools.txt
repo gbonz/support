@@ -39,3 +39,12 @@ i use less2 for viewing all text presently
 
 but modifying the text myself is migraine making if it is single spaced.
 
+line length should probably be limited to 65chars.
+
+this file is set to a limit of 80 to allow readable font size on linux,
+
+however this is not always possible on some os like ms.
+
+goal is for all files to be readable on any os without special software.
+
+
