@@ -1,0 +1,22 @@
+
+existing issues with mint.
+
+i tend to hibernate dell on lid closed/low power.
+
+it is my desire to only hibernate on low power.
+
+if i do a system upgrade on debian no issues.
+
+if i do a system upgrade on mint it cripples hibernate/suspend.
+
+given i do not get to choose when i run out of power
+
+i do not want this insane default.
+
+konsole crashes in mint if i drag a term/launch urls.
+
+functions properly in debian.
+
+ultimately i need a working computer i can suspend/hibernate.
+
+booting off sd, etc is prefered of course for portable data/os.
