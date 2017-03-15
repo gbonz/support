@@ -1,0 +1,9 @@
+
+basic setup requirements i need 
+
+change appearance to xfce-dusk.
+
+change fontsize to 16pt.
+
+change session/startup to bonz automagic login.
+

@@ -20,3 +20,7 @@ functions properly in debian.
 ultimately i need a working computer i can suspend/hibernate.
 
 booting off sd, etc is prefered of course for portable data/os.
+
+link for installing xo
+
+
