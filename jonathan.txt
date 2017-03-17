@@ -13,14 +13,27 @@ given i do not get to choose when i run out of power
 
 i do not want this insane default.
 
-konsole crashes in mint if i drag a term/launch urls.
+konsole has no beep/crashes in mint if i drag a term/launch urls.
 
-functions properly in debian.
+used to function properly in debian.
 
-ultimately i need a working computer i can suspend/hibernate.
+roxterm does not beep and cannot change tab by default too .
 
+vlc trashes desktop in vm till i change too a tty/back in vm.
+
+usb mouse does not work in ms10/vm properly only right mouse button.
+
+ultimately i need a working computer i can suspend/hibernate and switch apps in.
+
+booting off sd, etc is prefered of course for portable data/os with ms as fallback.
+
+otherwise ssd of whatever device needs to be split between host/shared data for vm.
+
+<<<<<<< HEAD
 booting off sd, etc is prefered of course for portable data/os.
 
 link for installing xo
 
 
+=======
+>>>>>>> 82fec8db1080dd4ac488bb6862d69baf8fb927a3
