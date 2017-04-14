@@ -1,0 +1,26 @@
+
+goal is a portable comms/router type device on prepaid 3g data.
+
+needs 3g sim microsd and no fan capable of running termux/linux terminal apps
+
+need to be able to seperate the data running from os
+
+and hence be able to backup entire device with data from microsd
+
+and be able to overwrite just the os junk if a systemn failure occurs.
+
+this needs to be doable on the device or by popping the sd into a new device.
+
+needs to have a working date/time at a glance unlike on ip hone.
+
+configurable notifications/messages thing all easilly readable unlike ip hone.
+
+proper training in its usage to kill/start apps and using things like zoom
+
+colour configuring without going insane with migrainne pain from white setup screens.
+
+how to lock apps like browser when used as a shortcut for banking etc with my own pin.
+
+a pin setable for different things unrelated to the os itself which should be usable.
+
+an automagic bluetooth setup for using video/microphone without touching device.
